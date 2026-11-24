@@ -1,0 +1,27 @@
+
+@media all and (max-width:575px) {
+    #about .img-hero::before{
+        top: 40%;
+    }
+    
+    }
+
+@media all and (min-width:576px) and (max-width:767px){
+    #about .img-hero::before{
+        top: 40%;
+    }
+}
+
+@media all and (min-width:768px) and (max-width:991px){
+    #about .img-hero::before{
+        top: 37%;
+        height: 550px;
+    }  
+}
+@media all and (min-width:992px) and (max-width:1199px) {
+   
+}
+
+@media all and (min-width:1200px) and (max-width:1201) {
+  
+}
